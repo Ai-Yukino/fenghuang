@@ -1,0 +1,14 @@
+name: numpy-100
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.4
+  - jupytext=1.13.8
+  - ca-certificates
+  - openssl
+  - black=22.3.0
+  - jupyterlab=3.3.3
+  - numpy=1.22.3
+  - certifi
+  - matplotlib=3.5.1
+  - scipy=1.8.0
