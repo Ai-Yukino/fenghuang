@@ -19,7 +19,7 @@
 
 # ## Exericse 1: Import the numpy package under the name `np` (★☆☆)
 
-# + jupyter={"source_hidden": true} tags=[]
+# + tags=[] jupyter={"source_hidden": true}
 # Solution to exercise 1
 # ---
 import numpy as np
@@ -27,7 +27,7 @@ import numpy as np
 
 # ## Exercise 2: Print the numpy version and the configuration (★☆☆)
 
-# + jupyter={"source_hidden": true} tags=[]
+# + tags=[] jupyter={"source_hidden": true}
 # Solution to exercise 2
 # ---
 
@@ -38,7 +38,7 @@ np.show_config()
 
 # # Exercise 3: Create a null vector of size 10 (★☆☆)
 
-# + jupyter={"outputs_hidden": true} tags=[]
+# + jupyter={"outputs_hidden": true, "source_hidden": true} tags=[]
 # Solution to exercise 3
 # ---
 
@@ -47,11 +47,31 @@ np.zeros(10)
 
 # ## Exercise 4: How to find the memory size of any array (★☆☆)
 
-# [Memory management in NumPy | NumPy docs](https://numpy.org/doc/stable/reference/c-api/data_memory.html)
-
 # ## Solution to exercise 4
 #
 # Call the `nbytes` method on that ndarray, e.g.
 
 a = np.array([-1, 0, 1])
 a.nbytes
+
+# ## Exercise 5: How to get the documentation of the numpy add function from the command line? (★☆☆)
+
+# + jupyter={"outputs_hidden": true, "source_hidden": true} tags=[]
+## Solution to exercise 5
+# ---
+
+help(np.add)
+# -
+
+# ## Exercise 6: Create a null vector of size 10 but the fifth value which is 1 (★☆☆)
+
+# ## Solution to exercise 6
+# # ---
+#
+# # https://numpy.org/devdocs/user/quickstart.html#array-creation
+
+# +
+n = 10
+i = 5
+
+# np.zeros(i - 1) + np.ones(1) + np.zeros(n - i)
