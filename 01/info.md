@@ -1,8 +1,8 @@
 # `info.md` for lesson `01`
 
-<center>
-<img src=images/NumPy.png>
-</center>
+<div align="center">
+<img src="images/NumPy.png">
+</div>
 
 [🍅 Image source (screenshot on April 10, 2022)](https://numpy.org/)
 
