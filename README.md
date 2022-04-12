@@ -11,7 +11,7 @@ Personal notes and commentary for [Tech Talent South's](https://www.techtalentso
 
 ---
 
-## How to view Jupyter notebooks
+## How to view Jupyter notebooks (for python)
 
 Jupyter notebooks are bad for version control (e.g. see [here](https://goodresearch.dev/tidy.html#keep-jupyter-notebooks-tidy)), so I push `.py` files that can be used to recover the origin `.ipynb` via [jupytext](https://jupytext.readthedocs.io/en/latest/).
 
