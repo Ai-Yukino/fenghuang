@@ -13,13 +13,13 @@
 #     name: python3
 # ---
 
-# # `Numpy-100.ipynb`
+# # `np-100.ipynb`
 #
 # [🍅 Resource link](https://github.com/rougier/numpy-100)
 
 # ## Exericse 1: Import the numpy package under the name `np` (★☆☆)
 
-# + tags=[] jupyter={"source_hidden": true}
+# + jupyter={"source_hidden": true} tags=[]
 # Solution to exercise 1
 # ---
 import numpy as np
@@ -27,7 +27,7 @@ import numpy as np
 
 # ## Exercise 2: Print the numpy version and the configuration (★☆☆)
 
-# + tags=[] jupyter={"source_hidden": true}
+# + jupyter={"source_hidden": true} tags=[]
 # Solution to exercise 2
 # ---
 
