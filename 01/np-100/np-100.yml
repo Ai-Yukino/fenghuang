@@ -1,4 +1,4 @@
-name: numpy-100
+name: np-100
 channels:
   - conda-forge
 dependencies:
