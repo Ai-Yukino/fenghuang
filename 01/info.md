@@ -1,19 +1,15 @@
 # `info.md` for lesson `01`
 
 <div align="center">
-<img src="images/NumPy.png">
+<img src="images/01.png" style="width: 65%">
 </div>
 
 [🖼 Image source (screenshot on April 10, 2022)](https://numpy.org/)
 
 ---
 
-## ❄ References ❄
+- Rough overview of numpy
 
-### `np-100`
+## Supplemental material
 
-[📝 numpy-100 repo $\subset$ GitHub](https://github.com/rougier/numpy-100)
-
-## ❄ Videos ❄
-
-TBA
+[📝 numpy-100 exercises | GitHub repo](https://github.com/rougier/numpy-100)
