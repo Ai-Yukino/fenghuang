@@ -1,13 +1,16 @@
 # `README.md` for [fenghuang](https://github.com/Ai-Yukino/fenghuang)
 
-![fenghuang.jpg](images/fenghuang.jpg)
+<div align="center">
+<img src="./images/fenghuang.jpg" style="width: 75vw; border-radius: 5%">
+</div>
 
-[🍅 Image source](https://commons.wikimedia.org/wiki/File:Fenghuang-drawing-1664.jpg)
+[🖼 Image source](https://commons.wikimedia.org/wiki/File:Fenghuang-drawing-1664.jpg)
 
 Personal notes and commentary for [Tech Talent South's](https://www.techtalentsouth.com/) Spring 2022 Advanced Data Science course taught by
 
-- Stephanie Farid (main instructor), and
-- Erin McConnell (teaching fellow)
+- Stephanie Farid (main instructor),
+- Erin McConnell (teaching fellow), and
+- Meagan Andrews (teaching assistant)
 
 ---
 
